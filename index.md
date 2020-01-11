@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to CTCook
 
-You can use the [editor on GitHub](https://github.com/yanepgvyh733234/CTCook/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Do you like to cook?
 
-### Markdown
+Yes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Cooking can make me happy, and CTCook can help you save happiness.
 
-```markdown
-Syntax highlighted code block
+After a long time, you can find the original mood again.
 
-# Header 1
-## Header 2
-### Header 3
+We will improve more features as soon as possible to improve the user experience.
 
-- Bulleted
-- List
+Email address: kuiping4290969919@163.com
 
-1. Numbered
-2. List
+Thank you very much!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yanepgvyh733234/CTCook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
